@@ -1,0 +1,108 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#main-container{
+    width: 1200px;
+    margin: 150px auto;
+}
+
+.tamaño{
+    border:   black  1px solid;
+    width: 1200px;
+    height: auto;
+}
+
+.largo{
+	width: 50%;
+}
+
+
+.tableA{
+    width: 10%;
+    width: auto;
+}
+
+.margenDeDistancia{
+    margin: 10px 0px 10px 674px;
+}
+
+
+table, td, th {
+    border: 1px solid;
+}
+
+table {
+    width: 186%;
+    border-collapse: collapse;
+}
+
+.ex1 {
+    empty-cells: hide;
+}
+
+td {
+    text-align: center;
+}
+
+.esp0{
+    width: 21.7%;
+}
+
+.esp1{
+    width: 37.4%;
+}
+
+.esp2{
+    width: 15%
+}
+
+.esp3{
+    width: 26.6%
+}
+
+.esp4{
+    width: 46%
+}
+
+.esp5{
+    width: 15%
+}
+
+.tamañoTableAside{
+    width: 15%;
+    margin-left: 323px
+}
+
+.tableAside{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content: space-around;
+}
+
+.tamanoCeldaBultosPallet{
+    height: 58px;
+}
+
+
+h3{
+    border: black 1px solid;
+    width: 186px;
+    margin: 10px 0px 14px 78px;
+}
+
+
+.tableAbajo{
+    border-collapse: collapse;
+    width: 75%;
+    margin: 10px 0px 14px 78px;
+}
+
+.tableAbajo td{
+    text-align: left;
+}
+
+.largoAbajo{
+    width: 25%;
+}
